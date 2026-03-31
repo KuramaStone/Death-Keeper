@@ -1,0 +1,27 @@
+{
+  "values": [
+    "#minecraft:replaceable",
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "#minecraft:crops",
+    "minecraft:moss_carpet",
+    "minecraft:snow",
+    "minecraft:bamboo_sapling",
+    "minecraft:bamboo",
+    "minecraft:sugar_cane",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:crimson_fungus",
+    "minecraft:warped_fungus",
+    "minecraft:lily_pad",
+    "minecraft:cactus",
+    "minecraft:weeping_vines",
+    "minecraft:twisting_vines",
+    "minecraft:cave_vines",
+    "minecraft:kelp",
+    "minecraft:sea_pickle",
+    "minecraft:small_dripleaf",
+    "minecraft:sculk_vein",
+    "minecraft:cobweb"
+  ]
+}

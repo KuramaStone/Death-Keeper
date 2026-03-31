@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "death_keeper:gravestone",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "death_keeper:gravestone",
+              "properties": {
+                "breakable": "true"
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "death_keeper:blocks/gravestone"
+}
